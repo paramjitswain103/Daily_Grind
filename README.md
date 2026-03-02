@@ -2,7 +2,7 @@ Created an directory daily-grind and created an repo
 
 git init Configured name and email locally
 
-git config --locally user.name "Paramjit" git config --locally user.email "paramjit@gmail.com" checked the git status and the file was untracked, I did
+git config --locally user.name "Paramjit" git config --locally user.email "paramjitswain103@gmail.com" checked the git status and the file was untracked, I did
 
 git add . To add all files
 
